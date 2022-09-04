@@ -110,7 +110,7 @@ public class Main {
 			}
 		}
 		if (n == 12) {
-			System.out.println("Selecione o item que voce deseja exibir da questao 12:");
+			System.out.println("Selecione o numero referente ao item que voce deseja exibir da questao 12:");
 			System.out.println("1=A\n2=B\n3=C\n4=D\n5=E");
 			Scanner input = new Scanner(System.in);
 			int item = scan.nextInt();
